@@ -1,6 +1,11 @@
 # Automotive-TSN-Switch
 TSN Switch for Automotive, Industry. gPTP Time Synchronization for autonomous driving. such as RoboVAN, RoboTruck, RoboBus, RoboTaxi, Robots, eVTOL, etc.
 
+Contacts:
+http://www.hdn-vdo.com/
+sales@hdn-vdo.com
+phone: +86-17265076798
+
 SW2000M TSN:
 
 11 port Gigabit/100Mbps Automotive Ethernet TSN time sensitive switch, which includes 8 channels of 100/1000BASE-T1 using Tyco MATEnet interface, 1 channel 1/2.5/5/10G standard Ethernet SFP+ and 2 channels 1000BASE-T standard Ethernet RJ45, it can achieve multi-channel switching of Automotive Ethernet, Gateway, AVB application, gPTP boundary clock (BC), gPTP clock bridge.
