@@ -3,7 +3,7 @@ TSN Switch for Automotive, Industry. gPTP Time Synchronization for autonomous dr
 
 Contacts:
 http://www.hdn-vdo.com/
-sales@hdn-vdo.com
+email:sales@hdn-vdo.com
 phone: +86-17265076798
 
 SW2000M TSN:
